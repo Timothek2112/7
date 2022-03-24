@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //Комментарий1
         //Комментарий2
         //Комментарий3
+        //Альтернативный комментарий 4
     }
 }
