@@ -31,4 +31,12 @@
         tools:layout_editor_absoluteX="96dp"
         tools:layout_editor_absoluteY="334dp" />
 
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="534dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
